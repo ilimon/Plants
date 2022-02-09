@@ -1,5 +1,5 @@
 # Responsive Plants Website 🎍 
-## [Watch it on youtube](https://ilimon.github.io/Plants/)
+## [Watch it Live](https://ilimon.github.io/Plants/)
 ### Responsive Plants Website 🎍
 
 - Responsive Plants Website Using HTML, CSS and JavaScript.
